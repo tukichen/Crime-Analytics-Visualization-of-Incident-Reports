@@ -20,9 +20,9 @@ This project uses the real crime data from Summer 2014 one or both of two US cit
 
 **Seattle Data**
 
-[**Seattle Summer 2014 dataset used in this assignment**](https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/seattle_incidents_summer_2014.csv)
+[**Seattle Summer 2014 dataset used for code development**](https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/seattle_incidents_summer_2014.csv)
 
-_Other Seattle data (not required; for information only):_
+_Other Seattle data:_
 
 [_Seattle Data Portal_](https://data.seattle.gov/)
 
@@ -30,9 +30,9 @@ _Other Seattle data (not required; for information only):_
 
 **San Francisco Data**
 
-[**San Francisco Summer 2014 dataset used in this assignment**](https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/sanfrancisco_incidents_summer_2014.csv)
+[**San Francisco Summer 2014 dataset used for code development**](https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/sanfrancisco_incidents_summer_2014.csv)
 
-_Other San Francisco Data (not required; for information only):_
+_Other San Francisco Data:_
 
 [_San Francisco Data Portal_](https://data.sfgov.org/)
 
