@@ -52,4 +52,5 @@ Inter-city comparisons of crime data
 * Expand analysis to the full datasets
 
 ### Tools
-Python with  [Bokeh](http://bokeh.pydata.org/en/latest/) or  [matplotlib](http://matplotlib.org/), R with ggplot2
+Python with  [Bokeh](http://bokeh.pydata.org/en/latest/) or  [matplotlib](http://matplotlib.org/)
+
