@@ -7,10 +7,10 @@ I produce a blog-post-style visual narrative consisting of a series of visualiza
 
 ## Project Ideas
 
-- For either city, how do incidents vary by time of day? Which incidents are most common in the evening? During what periods of the day are robberies most common?
-- For either city, how do incidents vary by neighborhood? Which incidents are most common in the city center? In what areas or neighborhoods are robberies or thefts most common?
-- For either city, how do incidents vary month to month in the Summer 2014 dataset?
-- For either city, which incident types tend to correlate with each other on a day-by-day basis?
+- For each city, how do incidents vary by time of day? Which incidents are most common in the evening? During what periods of the day are robberies most common?
+- For eachi city, how do incidents vary by neighborhood? Which incidents are most common in the city center? In what areas or neighborhoods are robberies or thefts most common?
+- For each city, how do incidents vary month to month in the Summer 2014 dataset?
+- For each city, which incident types tend to correlate with each other on a day-by-day basis?
 - **Advanced**  What can we infer broadly about the differences in crime patterns between Seattle and San Francisco? Does one city tend to have more crime than the other, per capita? Do the relative frequencies of types of incidents change materially between the two cities? (NOTE: The two datasets do not have the same schema, so comparisons will require some work and some assumptions.)
 - **Advanced**  For either city, do certain crimes correlate with environmental factors such as temperature? (To answer this kind of question, I use external data sources )
 
