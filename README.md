@@ -1,7 +1,7 @@
 # Crime Analytics: Visualization of Incident Reports
 ## Overview
 
-In this notebook, I analyze criminal incident data from Seattle or San Francisco to visualize patterns and contrast and compare patterns across the two cities.
+In this notebook, I analyze criminal incident data from Seattle and San Francisco to visualize patterns and contrast and compare patterns across the two cities.
 
 I produce a blog-post-style visual narrative consisting of a series of visualizations interspersed with sufficient descriptive text to make a convincing argument.
 
